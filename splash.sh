@@ -42,11 +42,11 @@ Survive!
 Dungeon!
 Exclusive!
 The bee\'s knees!
-Closed source!
+Open source!
 Classy!
 Wow!
 Not on Steam!
-Oh man!
+Ah man!
 Awesome community!
 Pixels!
 Teetsuuuuoooo!
@@ -59,7 +59,6 @@ Fat free!
 Absolutely no memes!
 Free dental!
 Ask your doctor!
-Minors welcome!
 Cloud computing!
 Legal in Finland!
 Hard to label!
@@ -127,13 +126,11 @@ Reference implementation!
 Kiss the sky!
 20 GOTO 10!
 Verlet intregration!
-Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
 4815162342 lines of code!
 A skeleton popped out!
 The sum of its parts!
-BTAF used to be good!
 I miss ADOM!
 umop-apisdn!
 OICU812!
@@ -145,9 +142,6 @@ Sublime!
 Octagonal!
 Une baguette!
 Gargamel plays it!
-Rita is the new top dog!
-SWM forever!
-Representing Edsbyn!
 Matt Damon!
 Supercalifragilisticexpialidocious!
 Consummate V\'s!
@@ -158,7 +152,6 @@ Internet enabled!
 Autonomous!
 Engage!
 Fantasy!
-DRR!
 Kick it root down!
 Regional resources!
 Now supports åäö!
@@ -168,7 +161,6 @@ Very fun!
 Lives in a pineapple under the sea!
 Omnipotent!
 Gasp!
-...!
 Bees, bees, bees, bees!
 Jag känner en bot!
 This text is hard to read in a serial consooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooole!
@@ -200,7 +192,7 @@ It\'s groundbreaking!
 The sky is the limit!
 Casual gaming!
 Undefeated!
-Kinda like Lemmings!
+Lemming is a security breach!
 Follow the train, CJ!
 Leveraging synergy!
 DungeonQuest is unfair!
@@ -218,7 +210,7 @@ Bread is pain!
 Read more books!
 Khaaaaaaaaan!
 More addictive than lemonade!
-Bigger than a bread box!
+Bigger than a virtual bread box!
 Millions of peaches!
 Fnord!
 This is my true form!
@@ -234,5 +226,7 @@ Doesn\'t avoid double negatives!
 Does barrel rolls!
 Meeting expectations!
 Don\'t interpret contractions!
+Psst, check /etc/profile.d!
+The best use of your time!
 EOF
 fi
